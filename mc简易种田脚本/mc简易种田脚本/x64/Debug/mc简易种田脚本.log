@@ -1,0 +1,9 @@
+﻿  源.cpp
+E:\c_cpp\mc简易种田脚本\源.cpp(42,20): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+E:\c_cpp\mc简易种田脚本\源.cpp(50,37): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+E:\c_cpp\mc简易种田脚本\源.cpp(52,39): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+E:\c_cpp\mc简易种田脚本\源.cpp(76,33): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+E:\c_cpp\mc简易种田脚本\源.cpp(78,35): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+E:\c_cpp\mc简易种田脚本\源.cpp(155,18): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+E:\c_cpp\mc简易种田脚本\源.cpp(157,18): warning C4018: “<”: 有符号/无符号不匹配
+  mc简易种田脚本.vcxproj -> E:\c_cpp\mc简易种田脚本\x64\Debug\mc简易种田脚本.exe
